@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to left,rgb(39, 141, 249),blue);
+}
+#menu{
+    margin-top: 150px;
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+}
+#botao{
+    padding: 8px;
+    border-radius: 10px;
+}
+input{
+    padding: 6px;
+    border-radius: 8px;
+}
